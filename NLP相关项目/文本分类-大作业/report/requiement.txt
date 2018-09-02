@@ -1,0 +1,13 @@
+pyecharts
+gensim
+logging
+keras
+pandas 
+numpy 
+sklearn
+pickle
+matplotlib
+jieba
+scipy
+tensorflow
+
